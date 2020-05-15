@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-@course: ISOM3400 L1
+@course: ISOM3400
 @author: YEUNG TSZ YAN
-@student_id: 20605040
 
 """
 
